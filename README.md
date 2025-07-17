@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/mnt/data/419a8478-bfcc-4113-8e06-fd1d24700562.png" alt="Hello, World!" width="700"/>
+  <img src="bart.jpg" alt="Hello, World!" width="700"/>
 </p>
 
 <p align="center">
