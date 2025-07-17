@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="banner.png" alt="Hello, World Banner" width="700"/>
+  <img src="banner.png" alt="Hello, World Banner" width="1000"/>
 </p>
 
 ---
 
 ## About Me
 
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>. I’m **Pranav Kokati**, a high‑school researcher and AI/ML enthusiast with a passion for solving complex problems at the intersection of machine learning, bioinformatics, and neuroscience. I love designing and implementing data‑driven models, exploring novel algorithms, and sharing my findings with the community. When I’m not coding, I’m probably pondering the mysteries of the universe.
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>. I’m **Pranav Kokati**, a high‑school researcher and AI/ML enthusiast with a passion for solving complex problems at the intersection of machine learning, bioinformatics, and neuroscience. I love designing and implementing data‑driven models, exploring cool algorithms, and sharing my findings with the community. When I’m not coding, I’m probably pondering the mysteries of the universe.
 
 ---
 
-## Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-2f363d?style=flat&logo=python&logoColor=white" alt="Python" height="30"/>
@@ -27,4 +26,3 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ---
 
-<p align="center">© Pranav Kokati</p>
