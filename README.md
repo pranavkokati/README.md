@@ -1,3 +1,7 @@
+---
+
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>
+
 <p align="center">
   <img src="banner.png" alt="Hello, World Banner" width="700"/>
 </p>
@@ -6,9 +10,6 @@
   <img src="https://profile-counter.glitch.me/PranavKokati/count.svg" alt="Visitor Count"/>
 </p>
 
----
-
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>
 
 **AI/ML Enthusiast** by day ☀️ and **High School Researcher** by night 🌙  
 Solving complex problems in machine learning, bioinformatics & neuroscience.
