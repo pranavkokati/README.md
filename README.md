@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bart.jpg" alt="Hello, World!" width="700"/>
+  <img src="helloworld.jpg" alt="Hello, World!" width="700"/>
 </p>
 
 <p align="center">
@@ -66,5 +66,5 @@ I’m currently working on microglia single‑cell genomics pipelines, building 
 <p align="center">Made with ❤️ by Pranav Kokati</p>
 
 <p align="center">
-  <img src="/mnt/data/e59d8b21-2d28-41b8-a140-4fcfab3ae0ed.png" alt="Bart Simpson Studying Advanced Calculus" width="500"/>
+  <img src="bart.jpg" alt="Bart Simpson Studying Advanced Calculus" width="500"/>
 </p>
