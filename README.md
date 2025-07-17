@@ -1,31 +1,68 @@
-**Hey there 👋**
+# Hey there 👋
 
-<img src="https://komarev.com/ghpvc/?username=pranavkokati&style=flat-square&color=blue" alt="Profile Views" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Hello%20World!&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
 
-**About me**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=4A90E2&style=flat-square&label=Profile+Views" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=2563EB&vCenter=true&width=600&lines=AI%2FML+Enthusiast;High+School+Researcher;Frontend+Developer;Always+learning+something+new" alt="Typing SVG" />
+## About me
 
-Hi there 👋. I'm Pranav Kokati, a passionate high school researcher and AI/ML enthusiast with a strong interest in artificial intelligence and web development. I love building projects that combine machine learning with clean, modern web interfaces. Whether I'm training models in Python, analyzing data in R, or crafting user experiences with React, I'm always excited to explore new technologies and solve interesting problems. When I'm not coding, you'll probably find me reading research papers or experimenting with the latest AI tools.
+Hi there 👋, I'm [Your Name], a passionate developer with a love for creating innovative solutions and building amazing projects. I enjoy working with modern technologies and am always eager to learn new things. When I'm not coding, you can find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.
 
-**Tech Stack**
+## Get in touch 📫
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) *(learning)*
+- 🔗 [Personal Website](https://yourwebsite.com)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 📝 [Medium](https://medium.com/@yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 [Email](mailto:your.email@example.com)
 
-**GitHub Stats**
+## Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavkokati&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkokati&layout=compact&theme=default&hide_border=true" width="48%" />
+**Languages:**
+- JavaScript/TypeScript
+- Python
+- Java
+- HTML/CSS
 
-**Get in touch ☕**
+**Frameworks & Libraries:**
+- React
+- Node.js
+- Express
+- Next.js
 
-* [LinkedIn](https://linkedin.com/in/pranavkokati)
-* [Portfolio](https://pranavkokati.dev)
-* [Email](mailto:your.email@example.com)
+**Tools & Platforms:**
+- Git & GitHub
+- Docker
+- AWS
+- VS Code
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</div>
+
+## Featured Projects
+
+### 🚀 [Project Name](https://github.com/yourusername/project-name)
+A brief description of your amazing project and what it does.
+
+### 🌟 [Another Project](https://github.com/yourusername/another-project)
+Another cool project you've worked on with a short description.
+
+### 💡 [Third Project](https://github.com/yourusername/third-project)
+One more project that showcases your skills.
+
+---
+
+<div align="center">
+  <i>Thanks for visiting! Feel free to reach out if you'd like to collaborate.</i>
+</div>
